@@ -1,0 +1,55 @@
+.sub__title {
+  font-size: 30px;
+  font-family: "Mulish", sans-serif;
+  font-family: "Secular One", sans-serif;
+  margin-bottom: 10px;
+  &--skills {
+    font-size: 28px;
+  }
+}
+.para {
+  margin-bottom: 50px;
+  font-size: 20px;
+
+  &--school {
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+  &--result {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  &--result2 {
+    font-size: 18px;
+    margin-bottom: 50px;
+  }
+}
+.title {
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+.skills_outerdiv {
+  display: flex;
+}
+.hardskills__outerdiv {
+  width: 50%;
+}
+.softskills__outerdiv {
+  margin-left: 40px;
+  width: 50%;
+}
+.softskills_div {
+  //   width: 80%;
+
+  display: flex;
+  flex-wrap: wrap;
+}
+.softskills {
+  font-size: 18px;
+  border: 1px solid black;
+  border-radius: 8px;
+  margin-bottom: 5px;
+  margin: 8px;
+  padding: 1px 10px 2px 10px;
+}

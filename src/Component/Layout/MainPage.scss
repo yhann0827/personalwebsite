@@ -1,0 +1,74 @@
+.image__div {
+  position: relative;
+  /* flex-direction: column; */
+  width: 100%;
+}
+.image {
+  width: 100%;
+  height: calc(100vh - 80px);
+  background-size: cover;
+  z-index: 0;
+  overflow: hidden;
+  filter: brightness(60%);
+  margin-top: 80px;
+}
+.image2 {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.intro__outerdiv {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+
+.intro__div {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  padding-left: 5vw;
+}
+
+.intro__para {
+  font-family: "Heebo", sans-serif;
+  font-family: "Secular One", sans-serif;
+  color: white;
+  font-size: 80px;
+  z-index: 1;
+}
+
+.intro__para2 {
+  font-family: "Ubuntu", sans-serif;
+  color: white;
+  font-size: 25px;
+  z-index: 1;
+}
+.startbutton {
+  z-index: 1;
+  width: 200px;
+  padding: 10px 20px;
+  font-size: 17px;
+  margin-top: 10px;
+  font-family: "Kanit", sans-serif;
+  font-family: "Ubuntu", sans-serif;
+  border: 1px solid white;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  transition: all 0.5s ease;
+
+  &:hover {
+    background: white;
+    color: black;
+  }
+
+  &:active {
+    background: black;
+    color: white;
+    transition: none;
+  }
+}
