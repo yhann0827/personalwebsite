@@ -1,0 +1,113 @@
+.competition__outerdiv {
+  border-radius: 10px;
+  width: 80%;
+  margin: 0 50px;
+  margin-left: 10%;
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.comp__type {
+  margin-left: 10%;
+  font-size: 35px;
+  font-family: "Cairo", sans-serif;
+  border-bottom: 1px solid white;
+
+  &-outerdiv {
+    margin: 30px 0 50px 0;
+  }
+}
+.comp__title {
+  font-weight: 200;
+  font-size: 25px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  //   background-color: red;
+}
+.hackComp {
+  width: 50%;
+  border: 2px solid white;
+  border-radius: 10px;
+
+  padding: 15px;
+  margin-right: 20px;
+  margin-left: 10px;
+}
+// .divider {
+//   border-bottom: 1.5px solid white;
+//   margin: 0 78% 0 10%;
+// }
+.prize__div {
+  display: flex;
+  justify-content: center;
+  margin-top: 11px;
+}
+.prize {
+  //   margin-top: 300px;
+  margin-right: 15px;
+  margin-left: 15px;
+  border: 1px solid white;
+  color: black;
+  padding: 8px;
+  border-radius: 10px;
+  font-weight: bold;
+  &--gold {
+    background-color: rgb(255, 251, 24);
+  }
+  &--bronze {
+    background-color: orange;
+  }
+  &--silver {
+    background-color: silver;
+    color: white;
+  }
+}
+.description {
+  padding: 10px;
+  margin: 13px;
+  font-size: 18px;
+}
+.icaiare {
+  color: rgb(241, 82, 82);
+}
+.prototype__div {
+  display: flex;
+  justify-content: center;
+}
+.prototype {
+  font-size: 15px;
+  font-family: "Kanit", sans-serif;
+  padding: 5px;
+  border: 1px solid white;
+  background-color: black;
+  &:hover {
+    background: white;
+    color: black;
+  }
+
+  &:active {
+    background: black;
+    color: white;
+    transition: none;
+  }
+}
+a {
+  text-decoration: none;
+  color: white;
+  &:hover {
+    color: black;
+  }
+  &:active {
+    background: black;
+    color: white;
+    transition: none;
+  }
+}
+.outerdiv {
+  margin-bottom: 70px;
+}
+.hack__list {
+  list-style-type: square;
+}
