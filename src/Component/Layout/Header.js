@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.scss";
 
-const Header = ({ handleClick }) => {
+const Header = ({ handleClick, handleExpClick, handleProClick }) => {
   return (
     <React.Fragment>
       <div className="header__div">
@@ -13,8 +13,12 @@ const Header = ({ handleClick }) => {
           <button onClick={() => handleClick()} className="headerButton">
             About Me
           </button>
-          <button className="headerButton">Experience</button>
-          <button className="headerButton">Project</button>
+          <button onClick={() => handleExpClick()} className="headerButton">
+            Experience
+          </button>
+          <button onClick={() => handleProClick()} className="headerButton">
+            Project
+          </button>
         </div>
       </div>
     </React.Fragment>

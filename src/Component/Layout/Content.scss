@@ -1,5 +1,10 @@
+.intro_div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .intro {
-  border: 1px solid black;
+  border: 1px solid rgba(68, 66, 66, 0.651);
   width: 30%;
   height: 600px;
   margin: 0 50px;
@@ -23,7 +28,6 @@
   // border: 1px solid black;
   margin-top: 20px;
   width: 50%;
-  height: 600px;
   margin-left: 10%;
   margin-right: 50px;
   // display: flex;
@@ -33,43 +37,28 @@
   font-family: "Mulish", sans-serif;
   font-family: "Secular One", sans-serif;
 }
-// .sub__title {
-//   font-size: 35px;
-//   font-family: "Mulish", sans-serif;
-//   font-family: "Secular One", sans-serif;
-//   margin-bottom: 10px;
-// }
-// .para {
-//   margin-bottom: 50px;
-//   font-size: 20px;
 
-//   &--school {
-//     font-weight: 600;
-//     margin-bottom: 5px;
-//   }
-
-//   &--result {
-//     font-size: 18px;
-//     margin-bottom: 30px;
-//   }
-// }
-// .edu {
-//   font-weight: 700;
-//   font-size: 20px;
-//   margin-bottom: 5px;
-// }
-// .date {
-//   font-style: italic;
-//   color: gray;
-//   font-size: 18px;
-//   margin-bottom: 5px;
-// }
 .content__body__about {
   display: flex;
   width: 100%;
-  height: 1200px;
-  // padding-top: 80px;
+  height: 1200px; // padding-top: 80px;
   /* background: red; */
+}
+.content__body__exp {
+  // width: 100%;
+  height: 1500px;
+  background: rgb(37, 37, 37);
+  color: white;
+  // margin: 10px;
+}
+.exp {
+  margin-left: 10%;
+  margin-bottom: 15px;
+  font-size: 50px;
+  font-family: "Mulish", sans-serif;
+  font-family: "Secular One", sans-serif;
+  font-weight: bold;
+  padding-top: 110px;
 }
 hr {
   border: 2px solid black;
@@ -84,34 +73,20 @@ hr {
   width: 50%;
   margin: 20px;
 }
-
-// .about__button {
-//   height: 40px;
-//   align-items: flex-start;
-//   border-bottom: 1px solid black;
+.content__body__project {
+  height: 1500px;
+}
+.project {
+  margin-left: 10%;
+  margin-bottom: 15px;
+  font-size: 50px;
+  font-family: "Mulish", sans-serif;
+  font-family: "Secular One", sans-serif;
+  font-weight: bold;
+  padding-top: 110px;
+}
+// .divider {
+//   border-bottom: 1.5px solid black;
+//   margin: 0 10%;
 // }
 
-// .about__button-div {
-
-//   padding: 10px 0;
-//   border-bottom: 1px solid black;
-//   &--left {
-//     border-right: 1px solid black;
-//   }
-//   &--middle {
-//     border-right: 1px solid black;
-//   }
-// }
-
-// .about__section {
-//   width: 100%;
-// }
-
-// .button {
-//   /* margin: 0 60px; */
-//   border: none;
-//   // background-color: antiquewhite;
-//   font-size: 20px;
-//   font-family: "Josefin Sans", cursive;
-//   /* padding: 20px; */
-// }
