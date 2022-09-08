@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/personalwebsite/static/css/main.f418d38e.css",
-    "main.js": "/personalwebsite/static/js/main.513df90c.js",
+    "main.css": "/personalwebsite/static/css/main.e70436fe.css",
+    "main.js": "/personalwebsite/static/js/main.0eaa66fd.js",
     "static/js/787.1ed0c42c.chunk.js": "/personalwebsite/static/js/787.1ed0c42c.chunk.js",
+    "static/media/portfolio.PNG": "/personalwebsite/static/media/portfolio.f2fc5216c9c795fc72c1.PNG",
+    "static/media/foodorderingsystem.PNG": "/personalwebsite/static/media/foodorderingsystem.cf6273f83378de4eeec1.PNG",
+    "static/media/covid.jpg": "/personalwebsite/static/media/covid.aa2231039bd090a29044.jpg",
     "static/media/languageImg.png": "/personalwebsite/static/media/languageImg.88b37b497fc8cb950825.png",
     "static/media/profile.png": "/personalwebsite/static/media/profile.4efb5029044ea9ec109f.png",
     "index.html": "/personalwebsite/index.html",
-    "main.f418d38e.css.map": "/personalwebsite/static/css/main.f418d38e.css.map",
-    "main.513df90c.js.map": "/personalwebsite/static/js/main.513df90c.js.map",
+    "main.e70436fe.css.map": "/personalwebsite/static/css/main.e70436fe.css.map",
+    "main.0eaa66fd.js.map": "/personalwebsite/static/js/main.0eaa66fd.js.map",
     "787.1ed0c42c.chunk.js.map": "/personalwebsite/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f418d38e.css",
-    "static/js/main.513df90c.js"
+    "static/css/main.e70436fe.css",
+    "static/js/main.0eaa66fd.js"
   ]
 }
