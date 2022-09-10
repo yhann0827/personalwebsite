@@ -1,9 +1,22 @@
 .name {
-  font-size: 30px;
+  font-size: 35px;
   font-family: "Mulish", sans-serif;
   font-family: "Secular One", sans-serif;
 }
 .profilepic {
   width: 50%;
   margin: 20px;
+}
+.contact__div {
+  margin-top: 10px;
+  font-size: 20px;
+}
+.contact {
+  margin-bottom: 10px;
+}
+.github {
+  color: black;
+  text-decoration: underline;
+}
+@media (max-width: 500px) {
 }

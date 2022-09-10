@@ -24,7 +24,9 @@
   font-weight: 600;
   display: flex;
   justify-content: center;
-  //   background-color: red;
+  &:hover {
+    color: gray;
+  }
 }
 .hackComp {
   width: 50%;
@@ -35,6 +37,10 @@
   //   display: block;
   margin-right: 20px;
   margin-left: 10px;
+
+  &--pln {
+    height: 80%;
+  }
 }
 .divider {
   border-bottom: 1.5px solid white;
@@ -103,4 +109,5 @@ a {
 }
 .progComp__list {
   list-style-type: georgian;
+  margin-bottom: 10px;
 }

@@ -4,10 +4,12 @@
   grid-template-columns: 1fr 1fr 1fr;
 }
 .project__div {
+  margin: 25px;
   //   border: 0.5px solid black;
   box-shadow: rgba(0, 0, 0, 0.274) 5px 5px 20px 5px;
   background-color: rgb(236, 232, 232);
-  margin: 25px;
+  // margin: 10px;
+  margin-bottom: 40px;
   font-size: 40px;
   font-family: "Mulish", sans-serif;
   font-family: "Secular One", sans-serif;
@@ -15,6 +17,16 @@
   flex-direction: column;
   align-items: center;
   border-radius: 20px;
+  // height: 80%;
+  &--portfolio {
+    height: 80%;
+  }
+  &--fos {
+    height: 75%;
+  }
+  &-- {
+    height: 79%;
+  }
 }
 
 .proImage {
@@ -40,6 +52,9 @@
   }
   &--fos {
     background-image: url("../../Photos/foodorderingsystem.PNG");
+  }
+  &--ogs {
+    background-image: url("../../Photos/groceryshop.png");
   }
   &:hover {
     // filter: brightness(10%);
@@ -69,11 +84,36 @@
   margin-bottom: 2px;
   margin-top: 30px;
 }
+.projectdesc__div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  // background-color: red;
+}
+.project__desc {
+  // width: 80%;
+  font-size: 18px;
+  font-family: "Crimson Text", serif;
+  font-weight: lighter;
+  padding: 0 12px;
+  text-align: justify;
+
+  // background-color: yellow;
+  // margin-left: 25px;
+  // margin-right: 25px;
+  // margin: 0 25px;
+}
 .project__language__div {
   //   background-color: RED;
   display: grid;
   grid-template-columns: 0.8fr 0.8fr 0.3fr;
   margin-top: 10px;
+  margin-bottom: 10px;
+  &--java {
+    margin-top: 10px;
+    display: flex;
+  }
 }
 .imageLink__div {
   background-color: red;
@@ -109,4 +149,10 @@
 .link {
   color: white;
   font-size: 18px;
+}
+@media (max-width: 500px) {
+  .project__outerdiv {
+    margin: 0 10%;
+    display: block;
+  }
 }

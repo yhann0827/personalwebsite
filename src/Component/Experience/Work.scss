@@ -1,0 +1,38 @@
+.work__outerdiv {
+  width: 80%;
+  margin: 0 50px;
+  margin-left: 10%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  //   background-color: red;
+}
+.work__div {
+  margin-bottom: 40px;
+}
+.work__type {
+  font-size: 30px;
+  font-family: "Cairo", sans-serif;
+  font-family: "Crimson Text", serif;
+  font-family: "Kanit", sans-serif;
+  font-weight: bolder;
+}
+.work__location__div {
+  //   font-style: italic;
+  font-size: 21px;
+  font-weight: 100;
+  margin-bottom: 8px;
+}
+
+.work__time {
+  font-style: italic;
+  color: rgb(206, 205, 205);
+}
+.work__desc {
+  margin-bottom: 20px;
+}
+.workdesc__list {
+  list-style-type: "- ";
+  font-size: 18px;
+  margin-bottom: 10px;
+  //   list-style-type: circle;
+}

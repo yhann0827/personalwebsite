@@ -34,6 +34,10 @@
   padding: 15px;
   margin-right: 20px;
   margin-left: 10px;
+
+  &--varsity {
+    height: 80%;
+  }
 }
 // .divider {
 //   border-bottom: 1.5px solid white;
@@ -75,6 +79,7 @@
 .prototype__div {
   display: flex;
   justify-content: center;
+  margin-bottom: 10px;
 }
 .prototype {
   font-size: 15px;
@@ -110,4 +115,13 @@ a {
 }
 .hack__list {
   list-style-type: square;
+  margin-bottom: 10px;
+  text-align: justify;
+  &--des {
+    margin-top: 5px;
+    list-style-type: circle;
+    margin-left: 25px;
+  }
+}
+@media (max-width: 500px) {
 }

@@ -4,7 +4,7 @@
   align-items: center;
 }
 .intro {
-  border: 1px solid rgba(68, 66, 66, 0.651);
+  // border: 1px solid rgba(68, 66, 66, 0.651);
   width: 30%;
   height: 600px;
   margin: 0 50px;
@@ -40,13 +40,13 @@
 
 .content__body__about {
   display: flex;
+  justify-content: center;
+  // align-items: center;
   width: 100%;
-  height: 1200px; // padding-top: 80px;
+  height: 100%; // padding-top: 80px;
   /* background: red; */
 }
 .content__body__exp {
-  // width: 100%;
-  height: 1500px;
   background: rgb(37, 37, 37);
   color: white;
   // margin: 10px;
@@ -74,19 +74,14 @@ hr {
   margin: 20px;
 }
 .content__body__project {
-  height: 1500px;
+  height: 100%;
 }
 .project {
   margin-left: 10%;
+  padding-top: 110px;
   margin-bottom: 15px;
   font-size: 50px;
   font-family: "Mulish", sans-serif;
   font-family: "Secular One", sans-serif;
   font-weight: bold;
-  padding-top: 110px;
 }
-// .divider {
-//   border-bottom: 1.5px solid black;
-//   margin: 0 10%;
-// }
-

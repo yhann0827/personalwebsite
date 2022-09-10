@@ -1,0 +1,41 @@
+.vol__outerdiv {
+  width: 80%;
+  margin: 0 50px;
+  margin-left: 10%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  //   background-color: red;
+}
+.vol__div {
+  margin-bottom: 40px;
+}
+.vol__type {
+  font-size: 30px;
+  font-family: "Cairo", sans-serif;
+  font-family: "Crimson Text", serif;
+  font-family: "Kanit", sans-serif;
+  font-weight: bolder;
+}
+.vol__location__div {
+  //   font-style: italic;
+  font-size: 21px;
+  font-weight: 100;
+  margin-bottom: 8px;
+}
+
+.vol__time {
+  font-style: italic;
+  color: rgb(206, 205, 205);
+}
+.vol__desc {
+  margin-bottom: 20px;
+}
+.voldesc__list {
+  list-style-type: "- ";
+  font-size: 18px;
+  //   list-style-type: circle;
+}
+.transparent__div {
+  margin-bottom: 20px;
+  height: 20px;
+}

@@ -56,10 +56,8 @@ const Content = () => {
         </div>
         <Experience />
       </div>
-      <div className="content__body__project">
-        <div ref={proRef} className="project">
-          Project
-        </div>
+      <div ref={proRef} className="content__body__project">
+        <div className="project">Project</div>
         <Project />
       </div>
     </React.Fragment>

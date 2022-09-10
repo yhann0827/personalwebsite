@@ -17,14 +17,20 @@ const Education = () => {
         <span className="date">(2021 - Present)</span>
       </div>
 
-      <div className="para para--result">First Year GPA: 4.0/4.0</div>
+      <div className="para para--result">
+        First Year GPA: 4.0/4.0 &nbsp;&nbsp;
+        <div className="award">Dean's List All Semesters</div>
+      </div>
       <div className="edu">Foundation in Science</div>
       <div className="para para--school">
         Heriot-Watt University &nbsp;&nbsp;
         <span className="date">(2020 - 2021)</span>
       </div>
 
-      <div className="para para--result">GPA: 4.0/4.0</div>
+      <div className="para para--result">
+        GPA: 4.0/4.0&nbsp;&nbsp;
+        <div className="award">High Achiever Award</div>
+      </div>
 
       <div className="edu">Malaysian Certificate of Education</div>
       <div className="para para--school">
