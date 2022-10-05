@@ -10,7 +10,12 @@ const Profile = () => {
         &nbsp;&nbsp;Profile
       </div>
       <div className="para">
-        A computer science student enthusiastic in programming and technology.
+        A second-year computer science student enthusiastic in programming and
+        technology. I am also a detail-oriented individual with strong
+        problem-solving and collaborative skills. Currently seeking an
+        internship opportunity in the field of computer science to further
+        develop, improve and use the gained knowledge through my studies and
+        work experience.
       </div>
     </React.Fragment>
   );

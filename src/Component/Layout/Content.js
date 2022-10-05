@@ -9,6 +9,7 @@ import Education from "../About/Education";
 import Profile from "../About/Profile";
 import Skills from "../About/Skills";
 import Interest from "../About/Interest";
+import Footer from "./Footer";
 
 const Content = () => {
   const ref = useRef(null);
@@ -60,6 +61,7 @@ const Content = () => {
         <div className="project">Project</div>
         <Project />
       </div>
+      <Footer />
     </React.Fragment>
   );
 };

@@ -19,21 +19,57 @@ const Project = () => {
           </div>
         </div>
         <div className="project__type">Web Application</div>
-        <div className="project__title">Personal Website</div>
-        <div className="projectdesc__div">
-          <div className="project__desc">
-            Portfolio website built with React that consists of my personal
-            information, resume, experience and projects. UI design principles
-            are applied to this website so that it is simple, beautiful and easy
-            to navigate.
-          </div>
+        <div className="project__title">
+          Build a Personal Website using React JS
         </div>
         <div className="project__language__div">
-          <div className="project__language">React</div>
-          <div className="project__language">CSS</div>
-          <div className="project__language">SCSS</div>
-          <div className="project__language">HTML</div>
-          <div className="project__language">JavaScript</div>
+          <div className="project__language">
+            React / CSS / SCSS / HTML / JavaScript
+          </div>
+        </div>
+        <div className="projectdesc__div">
+          <div className="project__desc">
+            <li>
+              Utilised React as main framework to build a detailed portfolio.
+            </li>
+            <li>
+              Utilized SCSS concepts such as flexbox and grid for modern UI
+              design.
+            </li>
+          </div>
+        </div>
+      </div>
+      <div className="project__div project__div--weathernow">
+        <div className="proImage__div proImage__div--weathernow">
+          <div className="link__div">
+            <a className="link" href="https://yhann0827.github.io/weathernow/">
+              <FontAwesomeIcon icon={faLink} className="link_icon" />
+              &nbsp;&nbsp;Go to website
+            </a>
+          </div>
+        </div>
+        <div className="project__type">Web Application</div>
+        <div className="project__title">
+          Built a Responsive Weather Website using ReactJS
+        </div>
+        <div className="project__language__div">
+          <div className="project__language">
+            HTML / CSS / JavaScript / React / OpenWeatherAPI
+          </div>
+        </div>
+        <div className="projectdesc__div">
+          <div className="project__desc">
+            <li>
+              Built a responsive design for both PC and mobile version using
+              CSS.
+            </li>
+            <li>
+              Implemented OpenWeatherAPI to fetch the relevant weather data.
+            </li>
+            <li>
+              Utilized React Hook to build modern and reusable components.
+            </li>
+          </div>
         </div>
       </div>
       <div className="project__div project__div--covid">
@@ -52,22 +88,27 @@ const Project = () => {
         <div className="project__title">
           Website for Data and Information Related to COVID-19
         </div>
-        <div className="projectdesc__div">
-          <div className="project__desc">
-            This website provides guidance and information on all topics related
-            to COVID-19. For example, introduction to Covid-19, its symptoms,
-            preventions, vaccines and statistics of cases in Malaysia. Users can
-            view and update the database by inserting the number of cases of
-            COVID-19 of that particular day and month.
+        <div className="project__language__div">
+          <div className="project__language">
+            HTML / CSS / JavaScript / SQLite / PHP
           </div>
         </div>
-        <div className="project__language__div">
-          <div className="project__language">HTML</div>
-          <div className="project__language">CSS</div>
-          <div className="project__language">JavaScript</div>
-          <div className="project__language">SQLite</div>
-          <div className="project__language">PHP</div>
+        <div className="projectdesc__div">
+          <div className="project__desc">
+            <li>
+              A website built using HTML used to provide guidance and
+              information on all topics related to COVID-19.
+            </li>
+            <li>
+              Utilised various CSS concepts to make sure the UI design of the
+              website is simple yet modern.
+            </li>
+            <li>
+              SQLite and PHP are used to manage the databse of the system.
+            </li>
+          </div>
         </div>
+
         <div className="link__div">
           <a
             className="link"
@@ -92,16 +133,20 @@ const Project = () => {
         </div>
         <div className="project__type">Java GUI Application</div>
         <div className="project__title">Food Ordering System</div>
+        <div className="project__language__div">
+          <div className="project__language">Java</div>
+        </div>
         <div className="projectdesc__div">
           <div className="project__desc">
-            A Java application that uses Java Swing package to build the GUI
-            components. It allows users to view both the food and drink the menu
-            and place an order. The system is user-friendly, flexible and
-            simple.
+            <li>
+              Utilised Java Swing packages to build GUI components for the
+              system.
+            </li>
+            <li>
+              Implement various concepts and classes like JFrame to build the
+              app.
+            </li>
           </div>
-        </div>
-        <div className="project__language__div project__language__div--java">
-          <div className="project__language">Java</div>
         </div>
       </div>
       <div className="project__div project__div--ogs">
@@ -118,17 +163,20 @@ const Project = () => {
         </div>
         <div className="project__type">Java Console Application</div>
         <div className="project__title">Online Grocery Shop</div>
+        <div className="project__language__div">
+          <div className="project__language">Java</div>
+        </div>
         <div className="projectdesc__div">
           <div className="project__desc">
-            A Java console application that allows customers to view and
-            purchase any food and drink items. It also allows users to login as
-            an admin to sell and update the inventory. User authentication is
-            used to verify the identity of a user attempting to gain access as
-            an admin.
+            <li>
+              Implemented various programming process to ensure the system works
+              for both customers and sellers.
+            </li>
+            <li>
+              User authentication is implemented to verify the identity of a
+              user attempting to gain access as an admin.
+            </li>
           </div>
-        </div>
-        <div className="project__language__div project__language__div--java">
-          <div className="project__language">Java</div>
         </div>
       </div>
     </div>

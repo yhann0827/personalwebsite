@@ -50,12 +50,12 @@ const Hackathon = () => {
                   our application is simple, beautiful and user-friendly.
                 </li>
               </li>
-              <li className="hack__list">
+              {/* <li className="hack__list">
                 Through this competition, I got to step out of my comfort zone
                 and boost my confidence by pitching in front of thousands of
                 people. It is a fantastic learning opportunity that strengthens
                 both my hard and soft skills.
-              </li>
+              </li> */}
             </div>
           </div>
           <div className="prototype__div">
@@ -96,11 +96,11 @@ const Hackathon = () => {
                 developing the prototype to make sure users have a great user
                 experience when using our application.
               </li>
-              <li className="hack__list">
+              {/* <li className="hack__list">
                 Through the competition, I learnt the importance of teamwork and
                 good communication. I have also become a more confident,
                 determined and creative person.
-              </li>
+              </li> */}
             </div>
           </div>
           <div className="prototype__div">

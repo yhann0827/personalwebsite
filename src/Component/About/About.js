@@ -1,6 +1,6 @@
 import "./About.scss";
 import React from "react";
-import profile from "../../Photos/profile.png";
+import profile from "../../Photos/photo.jpg";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import { faPhone } from "@fortawesome/free-solid-svg-icons";
@@ -28,7 +28,13 @@ const About = () => {
         </div>
         <div className="contact">
           <FaLinkedin />
-          &nbsp;&nbsp;
+          &nbsp;&nbsp;{" "}
+          <a
+            href="https://www.linkedin.com/in/yonghann-choo/"
+            className="github"
+          >
+            linkedin.com/in/yonghann-choo/
+          </a>
         </div>
         <div className="contact">
           <FaGithub /> &nbsp;&nbsp;{" "}

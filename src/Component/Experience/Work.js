@@ -5,7 +5,9 @@ const Work = () => {
   return (
     <div className="work__outerdiv">
       <div className="work__div">
-        <div className="work__type">Programming Tutor</div>
+        <div className="work__type">
+          Programming Tutor (HTML, CSS, JS, Java)
+        </div>
         <div className="work__location__div">
           Heriot Watt University
           <span className="work__time">
