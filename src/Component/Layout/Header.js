@@ -1,7 +1,7 @@
 import React from "react";
 import "./Header.scss";
 import logo from "../../Photos/logo.PNG";
-import pdf from "../../pdf/Yong Hann Resume.pdf";
+import pdf from "../../pdf/Choo Yong Hann Resume.pdf";
 const Header = ({ handleClick, handleExpClick, handleProClick }) => {
   return (
     <React.Fragment>
@@ -11,7 +11,7 @@ const Header = ({ handleClick, handleExpClick, handleProClick }) => {
         </header>
         <div className="button__div">
           <button className="headerButton">
-            <a a href={pdf} download="Yong Hann Resume.pdf">
+            <a a href={pdf} download="Choo Yong Hann Resume.pdf">
               My Resume
             </a>
           </button>
