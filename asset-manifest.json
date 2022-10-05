@@ -1,21 +1,24 @@
 {
   "files": {
-    "main.css": "/personalwebsite/static/css/main.00fcfe24.css",
-    "main.js": "/personalwebsite/static/js/main.6f3745ec.js",
+    "main.css": "/personalwebsite/static/css/main.f43cbaec.css",
+    "main.js": "/personalwebsite/static/js/main.4574c87f.js",
     "static/js/787.1ed0c42c.chunk.js": "/personalwebsite/static/js/787.1ed0c42c.chunk.js",
+    "static/media/weathernow.PNG": "/personalwebsite/static/media/weathernow.706e1d4b3ae9ca36a9aa.PNG",
     "static/media/portfolio.PNG": "/personalwebsite/static/media/portfolio.f2fc5216c9c795fc72c1.PNG",
     "static/media/foodorderingsystem.PNG": "/personalwebsite/static/media/foodorderingsystem.cf6273f83378de4eeec1.PNG",
     "static/media/covid.jpg": "/personalwebsite/static/media/covid.aa2231039bd090a29044.jpg",
     "static/media/languageImg.png": "/personalwebsite/static/media/languageImg.88b37b497fc8cb950825.png",
+    "static/media/Yong Hann Resume.pdf": "/personalwebsite/static/media/Yong Hann Resume.5b5959b70edebc825e06.pdf",
+    "static/media/photo.jpg": "/personalwebsite/static/media/photo.0f898942c6d4a72700ef.jpg",
     "static/media/groceryshop.png": "/personalwebsite/static/media/groceryshop.8c3f52c55252421f05e0.png",
-    "static/media/profile.png": "/personalwebsite/static/media/profile.4efb5029044ea9ec109f.png",
+    "static/media/logo.PNG": "/personalwebsite/static/media/logo.7996ca574c773faf17d0.PNG",
     "index.html": "/personalwebsite/index.html",
-    "main.00fcfe24.css.map": "/personalwebsite/static/css/main.00fcfe24.css.map",
-    "main.6f3745ec.js.map": "/personalwebsite/static/js/main.6f3745ec.js.map",
+    "main.f43cbaec.css.map": "/personalwebsite/static/css/main.f43cbaec.css.map",
+    "main.4574c87f.js.map": "/personalwebsite/static/js/main.4574c87f.js.map",
     "787.1ed0c42c.chunk.js.map": "/personalwebsite/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.00fcfe24.css",
-    "static/js/main.6f3745ec.js"
+    "static/css/main.f43cbaec.css",
+    "static/js/main.4574c87f.js"
   ]
 }
