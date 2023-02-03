@@ -23,18 +23,20 @@ const ProgrammingComp = () => {
           <div className="description__div">
             <div className="description">
               <li className="progComp__list">
-                Attended multiple training workshops hosted by the training
-                partners, such as algorithm workshop, to gain more knowledge and
-                enhance my programming skills.
+                Attended several training workshops hosted by various partners
+                to expand my knowledge and sharpen my programming skills,
+                including an algorithm workshop.
               </li>
               <li className="progComp__list">
-                Improved my problem-solving skills and thinking ability since
-                the algorithm puzzles need to be solved within the time limit.
-                This has increase my productivity and effeciency in my daily
-                life.
+                Enhanced my problem-solving abilities and critical thinking
+                through the completion of algorithm puzzles within specified
+                time constraints, resulting in increased productivity and
+                efficiency in daily tasks.
               </li>
               <li className="progComp__list">
-                Leant about the importance of communication and teamwork.
+                Acquired an understanding of the significance of effective
+                communication and the value of teamwork through workshops and
+                training sessions.
               </li>
             </div>
           </div>
@@ -47,15 +49,15 @@ const ProgrammingComp = () => {
           <div className="description__div">
             <div className="description">
               <li className="progComp__list">
-                Took part with 2 computer science students to sharpen my coding
-                skills.
+                Collaborated with 2 computer science students to enhance my
+                coding abilities.
               </li>
               <li className="progComp__list">
-                Gained a lot of new knowledge and learnt different fundamental
-                concepts of programming.
+                Acquired a significant amount of new knowledge and familiarized
+                myself with fundamental programming concepts.
               </li>
               <li className="progComp__list">
-                Strengthen my logical and analytical thinking skills.
+                Sharpened my logical and analytical thinking abilities.
               </li>
             </div>
           </div>

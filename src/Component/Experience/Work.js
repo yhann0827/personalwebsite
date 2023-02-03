@@ -16,23 +16,26 @@ const Work = () => {
         </div>
         <div className="work__desc">
           <li className="workdesc__list">
-            Recommended by lecturer to become a programming tutor who provides
-            gidance and supports to students who are struggling with their
+            Selected by lecturer to serve as a programming tutor, providing
+            individualized support to students facing challenges in their
             studies.
           </li>
           <li className="workdesc__list">
-            Conducted revision sessions for more than 20 computer science
-            students every Tuesday and Thursday night, resulting in 10 of them
-            achieved the highest possible grade.
+            Demonstrated strong communication and interpersonal skills by
+            effectively facilitating weekly revision sessions for over 20
+            computer science students, resulting in 10 students earning the top
+            grade.
           </li>
           <li className="workdesc__list">
-            Applied my own teaching method to solve student's difficulties in
-            classes, enhance their coding skills and gain better understanding
-            in programming.
+            Implemented an effective teaching method to help students overcome
+            difficulties, improve their coding abilities, and deepen their
+            understanding of programming concepts, including proficiency in
+            Python and Java.
           </li>
           <li className="workdesc__list">
-            Aided frustrated and confused foreign students by solving their
-            difficulties in multiple languagues such as Mandarin and Malay.
+            Utilized problem-solving and critical thinking skills to help
+            students overcome obstacles and understand complex programming
+            concepts.
           </li>
         </div>
       </div>

@@ -14,13 +14,14 @@ const Skills = () => {
           </div>
           <div className="title">Languages</div>
           <div className="para--result">
-            Java, HTML, CSS, SCSS, JavaScript, C++, PHP, React, jQuery
+            Java, HTML, CSS, SCSS, JavaScript, C++, C, Python, PHP, React,
+            jQuery
           </div>
           <div className="title">Database Management</div>
           <div className="para--result">SQLite, MYSQL, MS Access</div>
           <div className="title">Tools</div>
           <div className="para--result2">
-            Visual Studio Code, Atom, NetBeans
+            Visual Studio Code, Atom, NetBeans, GitHub
           </div>
         </div>
         <div className="softskills__outerdiv">

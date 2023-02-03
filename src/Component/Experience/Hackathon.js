@@ -22,33 +22,41 @@ const Hackathon = () => {
           <div className="description__div">
             <div className="description">
               <li className="hack__list">
-                Worked with 5 computer science students to develop an innovative
-                solution that can solve mental health challenges and build the
-                future of insurance industry. Secured smenifinal slot by beating
-                more than 50 groups of students.
+                Collaborated with 5 computer science students to develop an
+                innovative solution for mental health challenges and the
+                insurance industry. Secured a significant position in a
+                competition against 50+ student groups.
               </li>
               <li className="hack__list">
-                Created an application called, icAIAre, that helps to tackle
-                smartphone and internet addiction. The prototype is built using
-                Figma.
+                Demonstrated proficiency in UI/UX design and project management
+                by creating a mobile application prototype designed to combat
+                smartphone and internet addiction utilizing Figma. The project
+                showcased my ability to bring creative ideas to life through
+                technical execution and effective collaboration with a
+                cross-functional team.
               </li>
               <li className="hack__list">
-                Attended various workshop that enhanced my technical as well as
-                entrepreneurial knowledge
+                Utilizing a combination of technical expertise in software
+                development and strong problem-solving skills, developed an
+                innovative solution aimed at addressing mental health challenges
+                and shaping the future of the insurance industry.
               </li>
               <li className="hack__list">
-                I was the project manager and UI designer of the team.
-                <li className="hack__list--des">
-                  As a project manager, I make sure that everyone in the team
+                Served as project manager and UI designer, ensuring clear
+                project objectives and delivering a user-friendly, visually
+                appealing application.
+                {/* I was the project manager and UI designer of the team. */}
+                {/* <li className="hack__list--des"> */}
+                {/* As a project manager, I make sure that everyone in the team
                   has a clear objective of the project and helped assemble the
-                  team to create a winning result.
-                </li>
-                <li className="hack__list--des">
-                  As a UI designer, I was in charge of processing and
+                  team to create a winning result. */}
+                {/* </li> */}
+                {/* <li className="hack__list--des"> */}
+                {/* As a UI designer, I was in charge of processing and
                   transforming our business idea into a working model that has a
                   desirable and valuable form. I make sure that the design of
-                  our application is simple, beautiful and user-friendly.
-                </li>
+                  our application is simple, beautiful and user-friendly. */}
+                {/* </li> */}
               </li>
               {/* <li className="hack__list">
                 Through this competition, I got to step out of my comfort zone
@@ -73,29 +81,28 @@ const Hackathon = () => {
           <div className="description__div">
             <div className="description">
               <li className="hack__list">
-                Collaborated with 2 computer science students to build a website
-                applicaiton that helped to tackle the youth suicide issues and
-                reduce global suicide rate.
+                Collaborated with two computer science students in the
+                development of 'WeCare', a web application aimed at addressing
+                youth suicide and providing support to those suffering from
+                suicidal thoughts.
               </li>
               <li className="hack__list">
-                Our team created a web application named 'WeCare' to help those
-                who are suffer from suicidal thoughts. We have included some
-                interesting features such as free evaluation and psychological
-                tests, therapy sessions booking services, chatting with new
-                friends or volunteers, job hunting services, educational courses
-                and more in this website.
+                Contributed as a UI designer, applying the six key principles of
+                design (clarity, familiarity, user control, comfort,
+                ease-of-use, and accessibility) to ensure a positive user
+                experience.
               </li>
               <li className="hack__list">
-                Attended numerous seminars and workshops on topics such as
-                design thinking, prototyping and pitching.
+                Participated in design thinking, prototyping, and pitching
+                workshops and seminars to broaden knowledge and skills.
               </li>
-              <li className="hack__list">
+              {/* <li className="hack__list">
                 I am one of the UI designers of our prototype. I applied the 6
                 key principles of UI design which include clarity, familiarity,
                 user control, comfort, ease-of-use and accessbility when
                 developing the prototype to make sure users have a great user
                 experience when using our application.
-              </li>
+              </li> */}
               {/* <li className="hack__list">
                 Through the competition, I learnt the importance of teamwork and
                 good communication. I have also become a more confident,

@@ -13,21 +13,21 @@ const Volunteer = () => {
         </div>
         <div className="vol__desc">
           <li className="voldesc__list">
-            Helped to manage the event which was participated by more than 40
-            universities and 100 students.
+            Participated in the management of a large-scale event that involved
+            over 40 universities and 100 students.
           </li>
           <li className="voldesc__list">
-            Attend a two-day training workshop to strengthen my skills and
-            knowledge of the job as well as boost my confidence in my abilities
-            before volunteering.
+            Attended a two-day technical workshop to refine my skills and deepen
+            my understanding of the computer science field.
           </li>
           <li className="voldesc__list">
-            Assist the guests and university representatives by answering a
-            variety of questions about the event.
+            Provided exceptional customer service by answering questions and
+            addressing concerns from university representatives and event
+            attendees.
           </li>
           <li className="voldesc__list">
-            Collaborated with more than 30 volunteers and staffs to make the
-            event successful.
+            Collaborated with a team of over 30 volunteers and staff to ensure
+            the smooth and successful execution of the event.
           </li>
         </div>
       </div>
